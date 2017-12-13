@@ -19,3 +19,5 @@ A typical process to realize the model includes:
 3/ train and test.
 
 If you have any questions or suggestions, please feel free to let me know.
+
+It is inspired by the recent work nicely done by Sen Wang at Oxford Uni.
